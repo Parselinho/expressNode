@@ -1,0 +1,105 @@
+{
+   "projects" : [
+      {
+         "id": 0,
+         "project_name": "gallery",
+         "description": "In this project I wrote the CSS and the HTML from 0, and used JavaScript for the first time. I had to make the CSS Grid thumbnail gallery responsive without utilizing media queries, and wrote the 'search-content filter' by myself, and the best helper, dr. Google!",
+         "technologies": ["HTML", "CSS", "JavaScript"],
+         "live_link": "https://parselinho.github.io/galleryProject/",
+         "github_link": "https://github.com/Parselinho/galleryProject",
+         "image_urls": ["images/landpageimage/gallery.jpg", "images/projectpageimage/galleryland.jpg"]
+      },
+      {
+         "id": 1,
+         "project_name": "webapp",
+         "description": "This project is about responsive web page. I wrote the HTML, CSS and Javascript for this project. I had to add Demo alert notification, used Widgets. I add function to navigate between different data in the chart section. I added autocomplete and used local storage",
+         "technologies": ["HTML", "CSS", "JavaScript"],
+         "live_link": "https://parselinho.github.io/webApp/",
+         "github_link": "https://github.com/Parselinho/webApp",
+         "image_urls": ["images/landpageimage/traffic.jpg", "images/projectpageimage/trafficland.jpg"]
+      },
+      {
+         "id": 2,
+         "project_name": "Portofolio",
+         "description": "In this project, I build the HTML, CSS and javascript by myself, I had to make a responsive layout and using boostrap, adding a 'kind' of gallery of my projects with links to the live version(now its not working cause I change the repo names), That was my final project at the front-end-web-development",
+         "technologies": ["HTML", "CSS", "JavaScript"],
+         "live_link": "https://parselinho.github.io/projectPortfolio/",
+         "github_link": "https://github.com/Parselinho/projectPortfolio",
+         "image_urls": ["images/landpageimage/portofolio.jpg", "images/projectpageimage/portofolioland.jpg"]
+      },
+      {
+         "id": 3,
+         "project_name": "Phrase Hunter",
+         "description": "In this project, I create a browser-based, word guessing game: Phrase Hunter. I used JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
+         "technologies": ["HTML", "CSS", "JavaScript"],
+         "live_link": "https://parselinho.github.io/Phrase-Hunter/",
+         "github_link": "https://github.com/Parselinho/Phrase-Hunter",
+         "image_urls": ["images/landpageimage/phrase.jpg", "images/projectpageimage/phraseland.jpg"]
+      },
+      {
+         "id": 4,
+         "project_name": "API Employees",
+         "description": "For this project, I built an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other.",
+         "technologies": ["HTML", "CSS", "JavaScript"],
+         "live_link": "https://parselinho.github.io/API/",
+         "github_link": "https://github.com/Parselinho/API",
+         "image_urls": ["images/landpageimage/api.jpg", "images/projectpageimage/apiland.jpg"]
+      },
+      {
+         "id": 5,
+         "project_name": "four in a row",
+         "description": "I took the workshop in teamTreeHouse, Object-Oriented JavaScript: Challenge, I had instructions and after the instructions solution videos, sometimes I used the solution, but the most of the time, I used google as the best dev friend. that was really challenging and took me 5 days to complete.",
+         "technologies": ["HTML", "CSS", "JavaScript"],
+         "live_link": "https://parselinho.github.io/fourinaRow/",
+         "github_link": "https://github.com/Parselinho/fourinaRow",
+         "image_urls": ["images/landpageimage/fourinarow.jpg", "images/projectpageimage/fourinarowland.jpg"]
+      },
+      {
+         "id": 6,
+         "project_name": "calculator",
+         "description": "In this project I build an a calculator by myself with lots of google help, I wanted a good calculator that can serve me in my job, and it is.",
+         "technologies": ["HTML", "CSS", "JavaScript"],
+         "live_link": "https://parselinho.github.io/Calculator/",
+         "github_link": "https://github.com/Parselinho/Calculator",
+         "image_urls": ["images/landpageimage/calc.jpg", "images/projectpageimage/calcland.jpg"]
+      },
+      {
+         "id": 7,
+         "project_name": "clock",
+         "description": "the hardest thing I did till today its the clock, it was all the things im struggling with in JavaScript (time functions), so me and google decided to tackle it, and we succeed.",
+         "technologies": ["HTML", "CSS", "JavaScript"],
+         "live_link": "https://parselinho.github.io/Clock/",
+         "github_link": "https://github.com/Parselinho/Clock",
+         "image_urls": ["images/landpageimage/clock.jpg", "images/projectpageimage/clockland.jpg"]
+      },
+      {
+         "id": 8,
+         "project_name": "Full Stack Conference CheckList",
+         "description": "In this project, I used JavaScript to enhance an interactive registration form for a fictional Full Stack conference.",
+         "technologies": ["JavaScript"],
+         "live_link": "https://parselinho.github.io/FSConference/",
+         "github_link": "https://github.com/Parselinho/FSConference",
+         "image_urls": ["images/landpageimage/conference.jpg", "images/projectpageimage/conference.jpg"]
+      },
+      {
+         "id": 9,
+         "project_name": "quotes",
+         "description": "For this first project, I create an app that displays random famous quotes each time a button is clicked. I will select my own quotes from famous historical figures, artists, scientists, celebrities, etc.",
+         "technologies": ["JavaScript"],
+         "live_link": "https://parselinho.github.io/quotes/",
+         "github_link": "https://github.com/Parselinho/quotes",
+         "image_urls": ["images/landpageimage/quotes.jpg", "images/projectpageimage/quotesland.jpg"]
+      },
+      {
+         "id": 10,
+         "project_name": "employeesList",
+         "description": "in this project I used html and css, and litle bit javascript (for the search function), I added 5 pages of students and used flex CSS to display the cards in the way they are displayed.",
+         "technologies": ["HTML", "CSS", "JavaScript"],
+         "live_link": "https://parselinho.github.io/employees/",
+         "github_link": "https://github.com/Parselinho/employees",
+         "image_urls": ["images/landpageimage/employee.jpg", "images/projectpageimage/employeeland.jpg"]
+      }
+    ]
+}
+
+
