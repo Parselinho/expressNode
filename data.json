@@ -16,7 +16,7 @@
          "technologies": ["HTML", "CSS", "JavaScript"],
          "live_link": "https://parselinho.github.io/webApp/",
          "github_link": "https://github.com/Parselinho/webApp",
-         "image_urls": ["/static/images/landpageimage/traffic.jpg", "/static/images/projectpageimage/trafficland.jpg"]
+         "image_urls": ["/static/images/landpageimage/traffic.png", "/static/images/projectpageimage/trafficland.png"]
       },
       {
          "id": 2,
@@ -25,7 +25,7 @@
          "technologies": ["HTML", "CSS", "JavaScript"],
          "live_link": "https://parselinho.github.io/projectPortfolio/",
          "github_link": "https://github.com/Parselinho/projectPortfolio",
-         "image_urls": ["/static/images/landpageimage/portofolio.jpg", "/static/images/projectpageimage/portofolioland.jpg"]
+         "image_urls": ["/static/images/landpageimage/portofolio.png", "/static/images/projectpageimage/portofolioland.png"]
       },
       {
          "id": 3,
@@ -34,7 +34,7 @@
          "technologies": ["HTML", "CSS", "JavaScript"],
          "live_link": "https://parselinho.github.io/Phrase-Hunter/",
          "github_link": "https://github.com/Parselinho/Phrase-Hunter",
-         "image_urls": ["/static/images/landpageimage/phrase.jpg", "/static/images/projectpageimage/phraseland.jpg"]
+         "image_urls": ["/static/images/landpageimage/phrase.png", "/static/images/projectpageimage/phraseland.png"]
       },
       {
          "id": 4,
@@ -43,7 +43,7 @@
          "technologies": ["HTML", "CSS", "JavaScript"],
          "live_link": "https://parselinho.github.io/API/",
          "github_link": "https://github.com/Parselinho/API",
-         "image_urls": ["/static/images/landpageimage/api.jpg", "/static/images/projectpageimage/apiland.jpg"]
+         "image_urls": ["/static/images/landpageimage/api.png", "/static/images/projectpageimage/apiland.png"]
       },
       {
          "id": 5,
@@ -52,7 +52,7 @@
          "technologies": ["HTML", "CSS", "JavaScript"],
          "live_link": "https://parselinho.github.io/fourinaRow/",
          "github_link": "https://github.com/Parselinho/fourinaRow",
-         "image_urls": ["/static/images/landpageimage/fourinarow.jpg", "/static/images/projectpageimage/fourinarowland.jpg"]
+         "image_urls": ["/static/images/landpageimage/fourinarow.png", "/static/images/projectpageimage/fourinarowland.png"]
       },
       {
          "id": 6,
@@ -61,7 +61,7 @@
          "technologies": ["HTML", "CSS", "JavaScript"],
          "live_link": "https://parselinho.github.io/Calculator/",
          "github_link": "https://github.com/Parselinho/Calculator",
-         "image_urls": ["/static/images/landpageimage/calc.jpg", "/static/images/projectpageimage/calcland.jpg"]
+         "image_urls": ["/static/images/landpageimage/calc.png", "/static/images/projectpageimage/calcland.png"]
       },
       {
          "id": 7,
@@ -70,7 +70,7 @@
          "technologies": ["HTML", "CSS", "JavaScript"],
          "live_link": "https://parselinho.github.io/Clock/",
          "github_link": "https://github.com/Parselinho/Clock",
-         "image_urls": ["/static/images/landpageimage/clock.jpg", "/static/images/projectpageimage/clockland.jpg"]
+         "image_urls": ["/static/images/landpageimage/clock.png", "/static/images/projectpageimage/clockland.png"]
       },
       {
          "id": 8,
@@ -79,7 +79,7 @@
          "technologies": ["JavaScript"],
          "live_link": "https://parselinho.github.io/FSConference/",
          "github_link": "https://github.com/Parselinho/FSConference",
-         "image_urls": ["/static/images/landpageimage/conference.jpg", "/static/images/projectpageimage/conference.jpg"]
+         "image_urls": ["/static/images/landpageimage/conference.png", "/static/images/projectpageimage/conference.png"]
       },
       {
          "id": 9,
@@ -88,7 +88,7 @@
          "technologies": ["JavaScript"],
          "live_link": "https://parselinho.github.io/quotes/",
          "github_link": "https://github.com/Parselinho/quotes",
-         "image_urls": ["/static/images/landpageimage/quotes.jpg", "/static/images/projectpageimage/quotesland.jpg"]
+         "image_urls": ["/static/images/landpageimage/quotes.png", "/static/images/projectpageimage/quotesland.png"]
       },
       {
          "id": 10,
@@ -97,7 +97,7 @@
          "technologies": ["HTML", "CSS", "JavaScript"],
          "live_link": "https://parselinho.github.io/employees/",
          "github_link": "https://github.com/Parselinho/employees",
-         "image_urls": ["/static/images/landpageimage/employee.jpg", "/static/images/projectpageimage/employeeland.jpg"]
+         "image_urls": ["/static/images/landpageimage/employee.png", "/static/images/projectpageimage/employeeland.png"]
       }
     ]
 }
