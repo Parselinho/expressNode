@@ -42,7 +42,7 @@ app.get('/project/:id', (req, res, next) => {
         res.render('project', { project, technologies: project.technologies });
     } else {
         // If the project is not found, create a new error object with a custom message
-        const err = new Error(`Project Id <strong>-${projectId}-</strong> Is Not Found try to choose One of <strong>${projectSID}</strong> Id's`);
+        const err = new Error(`Project Id -${projectId}- Is Not Found try to choose One of ${projectSID} Id's`);
         err.status = 404;
         return next(err);
     }
