@@ -63,8 +63,13 @@ app.use((err, req, res, next) => {
     err.status = err.status || 500;
     err.message = err.message || 'Server Error'
     // Send the error message to the client
-    res.status(err.status);
-    res.send(`Error ${err.status}: ${err.message}. <br><br><br><a href="/">Back to Home Page</a>`)
+//     res.status(err.status);
+//     res.send(`Error ${err.status}: ${err.message}. <br><br><br><a href="/">Back to Home Page</a>`)
+    if(err.status === 404) {
+        res.render('page-not-found', { err })
+    } else {
+        res.render ('error', { err })
+    }
 });
 
 // Start the server on port 3000
