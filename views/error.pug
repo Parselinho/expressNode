@@ -1,0 +1,11 @@
+extends layout 
+
+block content
+    h1= `Error ${err.status}` 
+    p #{err.message}
+    if err.stack
+      pre #{err.stack}
+    a(href='/') Back to Home Page
+    br
+    br
+    a(href='/about') Back to About Page
