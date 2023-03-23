@@ -62,12 +62,13 @@ app.use((err, req, res, next) => {
     // Set the error status and message
     err.status = err.status || 500;
     err.message = err.message || 'Server Error'
-    // Send the error message to the client
-//     res.status(err.status);
-//     res.send(`Error ${err.status}: ${err.message}. <br><br><br><a href="/">Back to Home Page</a>`)
+
+    // Check if the error status is 404 (Not Found)
     if(err.status === 404) {
+        // Render the 'page-not-found' view with the error object
         res.render('page-not-found', { err })
     } else {
+        // Otherwise, render the 'error' view with the error object
         res.render ('error', { err })
     }
 });
