@@ -7,7 +7,7 @@
          "technologies": ["HTML", "CSS", "JavaScript"],
          "live_link": "https://parselinho.github.io/galleryProject/",
          "github_link": "https://github.com/Parselinho/galleryProject",
-         "image_urls": ["/static/images/landpageimage/gallery.jpg", "/static/images/projectpageimage/galleryland.jpg", "/static/images/projectpageimage/gallery2.jpg", "/static/images/projectpageimage/gallery3.jpg"]
+         "image_urls": ["/static/images/landpageimage/gallery.jpg", "/static/images/projectpageimage/galleryland.jpg", "/static/images/projectpageimage/gallery2.png", "/static/images/projectpageimage/gallery3.png"]
       },
       {
          "id": 1,
@@ -16,7 +16,7 @@
          "technologies": ["HTML", "CSS", "JavaScript"],
          "live_link": "https://parselinho.github.io/webApp/",
          "github_link": "https://github.com/Parselinho/webApp",
-         "image_urls": ["/static/images/landpageimage/traffic.png", "/static/images/projectpageimage/trafficland.png", "/static/images/projectpageimage/webapp2.png", "/static/images/projectpageimage/webapp3.png"]
+         "image_urls": ["/static/images/landpageimage/traffic.png", "/static/images/projectpageimage/trafficland.png", "/static/images/projectpageimage/webbapp2.png", "/static/images/projectpageimage/webapp3.png"]
       },
       {
          "id": 2,
