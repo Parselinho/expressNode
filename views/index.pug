@@ -3,31 +3,14 @@ extends layout.pug
 block content
 
   article.portfolio-intro
-
-    //- Replace with your own heading like 'My Portfolio', or 'Hey, Potential Employers', or 'Let's make the web great together!' 
     h1 My Portfolio
-
-    //- Replace with a description for your portfolio, what this project is, it's purpose, what it's supposed to accomplish, etc. 
     p Create a gorgeous portfolio site to showcase the great projects I've built. The site will contain a modern landing page, an about page where I`ll have a chance to share contact info, practice my elevator pitch and talk a little about myself, and a series of project pages to show off and detail at least my first five projects from this Techdegree.
 
 
   article.portfolio-project-thumbs
     .projects-box.box.grid
-
-      //- Use the Pug `each` iterator to loop over the projects in your data file  
       each project in projects
-        //- Use the example Pug code below and interpolated template literals as needed to dynamically generate:
-          //- The paths in the link's href and img's src attributes
-          //- The text 'Thumbnail' interpolated with the project title for the img's alt attribute
-          //- The project title for the h5 element's text
         .cell
           a(href=`/project/${project.id}`)
             img.thumbnail(src=`${project.image_urls[0]}` alt=`thumbnail profile picture for ${project.project_name}`)
             h5= project.project_name
-
-
-        //- .cell
-        //-   a(href='#')
-        //-     img.thumbnail(src='https://placehold.it/550x550', alt='')
-        //-     h5 My Site
-
