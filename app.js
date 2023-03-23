@@ -24,7 +24,7 @@ app.get('/project/:id', (req, res, next) => {
     const projectSID = projects.map(proj => proj.id) // to get all the projects ID for the error message
     const project = projects.find( ({ id }) => id === +projectId); // (( proj ) => proj.id === +projectId); -- the {id} solution can also wrriten like that
     if(project) {
-        res.render('project', { project });
+        res.render('project', { project, technologies: project.technologies });
     } else {
         const err = new Error(`Project Id <strong>-${projectId}-</strong> Is Not Found try to choose One of <strong>${projectSID}</strong> Id's`);
         err.status = 404;
